@@ -20,10 +20,10 @@ The goal was to convert a desktop-only webpage into a mobile-friendly layout usi
 # Screenshots:-
 
 Desktop View:
-[Desktop View](desktop-view.png)
+[Desktop View](Mobile view.png)
 
 Mobile View:
-[Mobile View](mobile-view.png)
+[Mobile View](desktop view.png)
 
  NANDHINI D completed task 4.
  Github id: https://github.com/nandhinidamodaran/task4-responsive.git
